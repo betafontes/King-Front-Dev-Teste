@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css">
+
+    <title>Manipulação do DOM</title>
+  </head>
+
+  <body>
+    <!-- Resolução 03 : -->
+
+    <!-- Manipulação do DOM: Escreva um código que altere o conteúdo de um elemento HTML
+    na página sem recarregá-la. Por exemplo, o código deve alterar o texto de um 
+    parágrafo ou o valor de um campo quando um botão for clicado.  -->
+
+    <!-- Irei desenvolver um simples convesor de dólar para exemplificar
+    a manipulção do Dom. -->
+
+    <div class="container">
+      <h1 class="title">Conversor de Dólar</h1>
+
+      <input placeholder="Digite aqui" type="number" id="valorReal" />
+      <button onclick="converter()" id="button">Converter</button>
+
+      <p id="resultado"></p>
+    </div>
+  </body>
+  
+  <script src="script.js"></script>
+</html>
