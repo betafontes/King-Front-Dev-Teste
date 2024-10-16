@@ -1,6 +1,6 @@
 ## DEV FRONT-END NA KING 
 
-### Teste Referente para atuar como Dev Front-End para projetos voluntários na King Sites!
+### Teste Referente para atuar como Dev Front-End para projetos na King Sites!
 
 <hr>
 
